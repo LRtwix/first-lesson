@@ -1,3 +1,5 @@
+package hometask.first;
+
 import org.w3c.dom.ls.LSOutput;
 
 import java.util.Scanner;
@@ -19,8 +21,6 @@ class Main {
             System.out.println("Correct");
         } else
             System.out.println("Not correct");
-        }
+    }
 
-        }
-
-
+}
